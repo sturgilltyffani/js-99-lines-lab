@@ -10,6 +10,15 @@ h1 {
     border-color: #65737D;
     background-color: white;
 }
-.friend p {
+.friend h3 {
     text-transform: uppercase;
+}
+#singButton {
+    color: black;
+    border-color: #65737D;
+    background-color: white;
+    text-transform: uppercase;
+    border-radius: 100px;
+    margin-top: 6px;
+    
 }
